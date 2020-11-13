@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Application Development using LabVIEW.
-- 💬 Ask me about LabVIEW, Python and Matlab-SIMULINK related projects.
+- 💬 Ask me about LabVIEW related projects.
 - 📫 How to reach me: Drop an e-mail at milanpatel3116@gmail.com.
 
 <!--
