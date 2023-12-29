@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Application Development using LabVIEW.
+- 🔭 I’m currently working on Software Testing and QA.
 - 💬 Ask me about LabVIEW + Python + Sotware Testing related topics.
 - 📫 How to reach me: milanpatel3116@gmail.com.
 
